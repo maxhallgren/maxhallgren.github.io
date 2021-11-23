@@ -1,0 +1,95 @@
+<html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="../style/style.css">
+  <link rel="icon" type="image.png" href="../images/gondor.png">
+
+    <title>
+      Max Hallgren
+    </title>
+  </head>
+
+  <body>
+
+    <div id="container">
+
+      <div id="banner">
+        <h1> <a href="../index.html"> Max Hallgren </a> | Notes </h1>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="../index.html">About</a></li>
+          <li><a href="../research/index.html"> Research </a></li>
+          <li><a href="../notes/index.html"> Notes </a></li>
+        </ul>
+      </nav>
+
+      <div id="page">
+        <div id="content">
+	  <p>
+These are notes.
+	  </p>
+
+	  <h2>Cornell</h2> 
+
+    <center>
+    <table>
+      <thead align="left">
+        <tr>
+          <th>Class</th>
+          <th>Semester</th>
+	  <th></th>
+        </tr>
+      </thead>
+      <tbody>
+	<tr> 
+	  <td><a href="cornell/f16/symplectic/index.html">Symplectic Geometry Reading Group </td> 
+	  <td>
+	    Fall 2016
+	  </td>
+	  <td>
+	    <a href="https://www.math.tecnico.ulisboa.pt/~acannas/Books/lsg.pdf">Source</a> 
+	  </td>
+	</tr>
+        <tr>
+          <td><a href="cornell/f16/7510notes.pdf">Math 7510: Sheaves on Manifolds
+	  </a></td>
+          <td>Fall 2016</td>
+	  <td></td>
+        </tr>
+        <tr>
+          <td><a href="cornell/f16/7410notes.pdf">Math 7410: Lie Combinatorics and Hyperplane Arrangements</a></td>
+          <td>Fall 2016</td>
+	  <td></td>
+        </tr>
+<!--        <tr>
+          <td><a href="cornell/f16/6490notes.pdf">Math 6490: Lie Algebras
+	  </a>(actually about Lie groups)</td>
+          <td>Fall 2016</td>
+	  <td></td>
+        </tr> -->
+        <tr>
+          <td><a href="cornell/f16/6520notes.pdf">Math 6520: Differentiable Manifolds I
+	  </a></td>
+          <td>Fall 2016</td>
+	  <td> </td>
+        </tr>
+      </tbody>
+    </table>
+    </center>
+
+
+
+	  
+
+
+          </br></br>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+
+
+</html>
